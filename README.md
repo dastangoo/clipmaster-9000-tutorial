@@ -1,6 +1,6 @@
 # Clipmaster 9000
 
-This is a tutorial for building a clipboard manager using Electron. It is meant to accompany my session on _Building a desktop application with Electron_ ([Part 1][] and [Part 2][]) at [O'Reilly's Fluent Conference 2016][fluent].
+This is a tutorial for building a Markdown-to-HTML renderer using Electron. It is meant to accompany my session on _Building a desktop application with Electron_ ([Part 1][] and [Part 2][]) at [O'Reilly's Fluent Conference 2016][fluent] and [JSConf Colombia](http://jsconf.co).
 
 [Part 1]: http://conferences.oreilly.com/fluent/javascript-html-us/public/schedule/detail/46730
 [Part 2]: http://conferences.oreilly.com/fluent/javascript-html-us/public/schedule/detail/47788
