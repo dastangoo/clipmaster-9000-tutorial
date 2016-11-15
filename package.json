@@ -22,14 +22,14 @@
   },
   "homepage": "https://github.com/stevekinney/clipmaster-9000-tutorial#readme",
   "devDependencies": {
-    "devtron": "^1.3.0",
-    "electron-packager": "^8.1.0",
-    "electron-prebuilt": "^1.4.3",
+    "devtron": "^1.4.0",
+    "electron-packager": "^8.2.0",
+    "electron-prebuilt": "^1.4.6",
     "spectron": "^3.4.0"
   },
   "dependencies": {
     "jquery": "^3.1.1",
     "menubar": "^5.1.0",
-    "request": "^2.69.0"
+    "request": "^2.78.0"
   }
 }
