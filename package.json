@@ -23,7 +23,8 @@
   "homepage": "https://github.com/stevekinney/clipmaster-9000-tutorial#readme",
   "devDependencies": {
     "electron-packager": "^5.2.1",
-    "electron-prebuilt": "^0.36.9"
+    "electron-prebuilt": "^0.36.9",
+    "jslint": "^0.11.0"
   },
   "dependencies": {
     "jquery": "^2.2.1",
